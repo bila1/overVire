@@ -1,0 +1,2 @@
+# Name of host to connnect
+ssh -p 2220  bandit0@bandit.labs.overthewire.org
